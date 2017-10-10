@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="54107660140884" size="0.08 0.08" />
+    <ImageTarget name="8718300888366" size="0.08 0.08" />
+    <ImageTarget name="8718300057809" size="0.08 0.08" />
+    <ImageTarget name="8718300057243" size="0.08 0.08" />
+    <ImageTarget name="8718300057120" size="0.08 0.08" />
+    <ImageTarget name="8057949260066" size="0.08 0.08" />
+    <ImageTarget name="8019314020033" size="0.08 0.08" />
+    <ImageTarget name="8003948000714" size="0.08 0.08" />
+    <ImageTarget name="7622210701763" size="0.08 0.08" />
+    <ImageTarget name="7622210453037" size="0.08 0.08" />
+    <ImageTarget name="5449000113368" size="0.08 0.08" />
+    <ImageTarget name="5425033993009" size="0.08 0.08" />
+    <ImageTarget name="5414807004454" size="0.08 0.08" />
+    <ImageTarget name="5412971116072" size="0.08 0.08" />
+    <ImageTarget name="5412971004652" size="0.08 0.08" />
+    <ImageTarget name="5410942108156" size="0.08 0.08" />
+    <ImageTarget name="5410471907824" size="0.08 0.08" />
+    <ImageTarget name="5410228227397" size="0.08 0.08" />
+    <ImageTarget name="5410146411328" size="0.08 0.08" />
+    <ImageTarget name="5410013305002" size="0.08 0.08" />
+    <ImageTarget name="5400357000404" size="0.08 0.08" />
+    <ImageTarget name="5400113530442" size="0.08 0.08" />
+    <ImageTarget name="5400112283578" size="0.08 0.08" />
+    <ImageTarget name="5400112268407" size="0.08 0.08" />
+    <ImageTarget name="5400112261019" size="0.08 0.08" />
+    <ImageTarget name="5400112203668" size="0.08 0.08" />
+    <ImageTarget name="5400112112700" size="0.08 0.08" />
+    <ImageTarget name="5400101262102" size="0.08 0.08" />
+    <ImageTarget name="5400101212824" size="0.08 0.08" />
+    <ImageTarget name="5400101183247" size="0.08 0.08" />
+    <ImageTarget name="5400101055766" size="0.08 0.08" />
+    <ImageTarget name="5400101049574" size="0.08 0.08" />
+    <ImageTarget name="5400101041462" size="0.08 0.08" />
+    <ImageTarget name="5400101041424" size="0.08 0.08" />
+    <ImageTarget name="5400101011977" size="0.08 0.08" />
+    <ImageTarget name="5400101008762" size="0.08 0.08" />
+    <ImageTarget name="5400101004825" size="0.08 0.08" />
+    <ImageTarget name="5050083296079" size="0.08 0.08" />
+    <ImageTarget name="4018077632006" size="0.08 0.08" />
+    <ImageTarget name="3560071013004" size="0.08 0.08" />
+    <ImageTarget name="3560070407613" size="0.08 0.08" />
+    <ImageTarget name="3329770053526" size="0.08 0.08" />
+    <ImageTarget name="3270190118145" size="0.08 0.08" />
+    <ImageTarget name="3228881019493" size="0.08 0.08" />
+    <ImageTarget name="3154230012979" size="0.08 0.08" />
+    <ImageTarget name="3017760002707" size="0.08 0.08" />
+    <ImageTarget name="613008730697" size="0.08 0.08" />
+    <ImageTarget name="400112283592" size="0.08 0.08" />
+    <ImageTarget name="80825401" size="0.08 0.08" />
+    <ImageTarget name="54491472" size="0.08 0.08" />
+    <ImageTarget name="27045961" size="0.08 0.08" />
+  </Tracking>
+</QCARConfig>
